@@ -71,7 +71,7 @@ padding-top: 24px;
    line-height: 1.5;
    letter-spacing: 0.32px;
 }
-.navigation:hover , .navigation:focus , .heder-address-link:hover , .heder-address-link:focus{
+.navigation-item:hover , .navigation-item:focus , .heder-address-link:hover , .heder-address-link:focus{
    color: #404BBF;
 }
 
